@@ -5,4 +5,5 @@ You can change the volume of the computer with your hand movements.
 - `Python 3`
 - `Open CV` by using `pip install opencv-python`
 - `Numpy` by using `pip install numpy`
+- `pycaw` by using `pip install pycaw`
 
